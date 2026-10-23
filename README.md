@@ -1,1 +1,1 @@
-# T-cnica-y-Herramientas-2
+# Técnicas-y-Herramientas-2
